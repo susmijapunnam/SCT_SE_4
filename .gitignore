@@ -1,2 +1,36 @@
+# Python cache files
 __pycache__/
-*.pycpip 
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE/editor settings
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python package metadata
+*.egg
+*.whl
+*.manifest
+*.spec
+ 
